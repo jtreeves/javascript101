@@ -1,0 +1,30 @@
+.ugly {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: orange;
+}
+
+.pretty {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: purple;
+}
+
+.happy {
+    background: blue;
+}
+
+.sad {
+    background: red;
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
