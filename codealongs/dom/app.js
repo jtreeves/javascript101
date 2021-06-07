@@ -13,7 +13,7 @@ function clickFirstButton() {
     firstButton.style.background = 'purple'
 }
 
-firstButton.onclick = clickFirstButton()
+firstButton.onclick = clickFirstButton
 
 function clickSecondButton() {
     const newButton = document.createElement('button')
@@ -21,10 +21,10 @@ function clickSecondButton() {
     body.appendChild(newButton)
 }
 
-secondButton.onclick = clickSecondButton()
+secondButton.onclick = clickSecondButton
 
 function clickThirdButton() {
     paragraph.remove()
 }
 
-thirdButton.onclick = clickThirdButton()
+thirdButton.onclick = clickThirdButton
