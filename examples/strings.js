@@ -1,5 +1,5 @@
-const food = 'steak'
+const letter = 'a'
 
-const drink = 'milk'
+const word = 'steak'
 
-const color = 'blue'
+const sentence = 'I eat food'

@@ -1,5 +1,3 @@
-const favoriteNumber = 7
+const integer = 7
 
-const leastFavoriteNumber = 13
-
-const randomNumber = 849
+const decimal = 13.68
