@@ -6,4 +6,4 @@ function changeButton() {
     button.style.background = 'purple'
 }
 
-button.onclick = changeButton()
+button.onclick = changeButton
